@@ -1,0 +1,50 @@
+/* ── EEnE Color Palette (official show colors) ─────────────── */
+:root {
+  --ee-sky: #87CEEB;
+  --ee-sky-low: #B8E0F5;
+  --ee-ground: #7AB648;
+  --ee-ground-dark: #5A9030;
+  --ee-road: #8B7355;
+  --ee-house-1: #E8D44D;
+  --ee-house-2: #E8A317;
+  --ee-outline: #2A1A00;
+  --ee-roof: #C85A30;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background: #87CEEB;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: inherit;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f0f0f0;
+}
+::-webkit-scrollbar-thumb {
+  background: #E8A317;
+  border-radius: 3px;
+}
