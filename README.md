@@ -13,3 +13,7 @@ Due to copyright, they do not share the exact same characteristics n personaliti
 The backend is built with **FastAPI**, **SQLAlchemy** n **SQLite** for local development, using **Google Gemini** to generate AI responses with real-time streaming. The **Next.js** frontend provides a personalized n conversational learning experience.
 
 This project is dedicated to my English-speaking friend n tutor **Edward** (no offense to Cres n Manas), who inspired both the project's idea n it's name.
+
+---
+
+*Ed, Edd n Eddy™ & © Cartoon Network. Fan-made educational app. Not affiliated with or endorsed by Cartoon Network.*
