@@ -215,7 +215,7 @@ export default function Home() {
         <footer className={styles.footer}>
           <div className={styles.cnLogo}>
             <div className={styles.cnCircle}>
-              <span className={styles.cnText}>cn</span>
+              <span className={styles.cnText}>CN</span>
             </div>
             <span className={styles.cnLabel}>Cartoon Network</span>
           </div>
